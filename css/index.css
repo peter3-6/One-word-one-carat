@@ -1,0 +1,564 @@
+.main-1{
+	width:100%;
+	height:auto;
+	background:#000;
+}
+/*标题*/
+.main-1 .img1-1{
+	width:24%;
+	height:auto;
+	position:absolute;
+	top:4.3%;
+	left:38%;
+	transition: all 0.5s ease 0.1s;
+     -webkit-transition:all 0.5s ease 0.1s ;
+     -o-transition:all 0.5s ease 0.1s ;
+     -moz-transition:all 0.5s ease 0.1s;
+     opacity:0 ;
+ }
+ .animatedOne .main-1 .img1-1{
+     opacity:1 ;
+ }
+ /*gif*/
+ .main-1 .img1-2{
+ 	width:60%;
+ 	height:auto;
+ 	margin-top:-50%;
+ }
+ /*字1*/
+ .main-1 .img1-3{
+	width:55%;
+	height:auto;
+	position:absolute;
+	bottom:28%;
+	left:-122.5%;
+	transition: all 0.5s ease 0.6s;
+     -webkit-transition:all 0.5s ease 0.6s ;
+     -o-transition:all 0.5s ease 0.6s ;
+     -moz-transition:all 0.5s ease 0.6s;
+     opacity:0 ;
+ }
+ .animatedOne .main-1 .img1-3{
+     opacity:1 ;left:22.5%;
+ }
+/*字2*/
+.main-1 .img1-4{
+	width:32%;
+	height:auto;
+	position:absolute;
+	bottom:20.7%;
+	right:-134%;
+	transition: all 0.5s ease 1.1s;
+     -webkit-transition:all 0.5s ease 1.1s ;
+     -o-transition:all 0.5s ease 1.1s ;
+     -moz-transition:all 0.5s ease 1.1s;
+     opacity:0 ;
+ }
+ .animatedOne .main-1 .img1-4{
+     opacity:1 ;right:34%;
+ }
+ /*第二页*/
+ .main-2{
+ 	width:100%;
+ 	height:auto;
+ 	background:#070302;
+ }
+ /*标题*/
+.main-2 .img1-1{
+	width:24%;
+	height:auto;
+	position:absolute;
+	top:4.3%;
+	left:38%;
+	transition: all 0.5s ease 0.1s;
+     -webkit-transition:all 0.5s ease 0.1s ;
+     -o-transition:all 0.5s ease 0.1s ;
+     -moz-transition:all 0.5s ease 0.1s;
+     opacity:0 ;
+ }
+ .animatedTwo .main-2 .img1-1{
+     opacity:1 ;
+ }
+ /*gif*/
+ .main-2 .img2-2{
+ 	width:100%;
+ 	height:auto;
+ 	margin-top:27%;
+ }
+ /*字1*/
+ .main-2 .img2-3{
+	width:42%;
+	height:auto;
+	position:absolute;
+	bottom:28%;
+	left:-129%;
+	transition: all 0.5s ease 0.6s;
+     -webkit-transition:all 0.5s ease 0.6s ;
+     -o-transition:all 0.5s ease 0.6s ;
+     -moz-transition:all 0.5s ease 0.6s;
+     opacity:0 ;
+ }
+ .animatedTwo .main-2 .img2-3{
+     opacity:1 ;left:29%;
+ }
+/*字2*/
+.main-2 .img2-4{
+	width:32%;
+	height:auto;
+	position:absolute;
+	bottom:20.7%;
+	right:-134%;
+	transition: all 0.5s ease 1.1s;
+     -webkit-transition:all 0.5s ease 1.1s ;
+     -o-transition:all 0.5s ease 1.1s ;
+     -moz-transition:all 0.5s ease 1.1s;
+     opacity:0 ;
+ }
+ .animatedTwo .main-2 .img2-4{
+     opacity:1 ;right:34%;
+ }
+ /*第三页*/
+ .main-3{
+ 	width:100%;
+ 	height:auto;
+ 	background:#000;
+ }
+ /*标题*/
+.main-3 .img1-1{
+	width:24%;
+	height:auto;
+	position:absolute;
+	top:4.3%;
+	left:38%;
+	transition: all 0.5s ease 0.1s;
+     -webkit-transition:all 0.5s ease 0.1s ;
+     -o-transition:all 0.5s ease 0.1s ;
+     -moz-transition:all 0.5s ease 0.1s;
+     opacity:0 ;
+ }
+ .animatedThree .main-3 .img1-1{
+     opacity:1 ;
+ }
+ /*gif*/
+ .main-3 .img3-2{
+ 	width:100%;
+ 	height:100%;
+ }
+ /*字1*/
+ .main-3 .img3-3{
+	width:51%;
+	height:auto;
+	position:absolute;
+	bottom:28%;
+	left:-124.5%;
+	transition: all 0.5s ease 0.6s;
+     -webkit-transition:all 0.5s ease 0.6s ;
+     -o-transition:all 0.5s ease 0.6s ;
+     -moz-transition:all 0.5s ease 0.6s;
+     opacity:0 ;
+ }
+ .animatedThree .main-3 .img3-3{
+     opacity:1 ;left:24.5%;
+ }
+/*字2*/
+.main-3 .img3-4{
+	width:32%;
+	height:auto;
+	position:absolute;
+	bottom:20.7%;
+	right:-134%;
+	transition: all 0.5s ease 1.1s;
+     -webkit-transition:all 0.5s ease 1.1s ;
+     -o-transition:all 0.5s ease 1.1s ;
+     -moz-transition:all 0.5s ease 1.1s;
+     opacity:0 ;
+ }
+ .animatedThree .main-3 .img3-4{
+     opacity:1 ;right:34%;
+ }
+ /*第四页*/
+ .main-4{
+ 	width:100%;
+ 	height:auto;
+ 	/*background:#070302;*/
+ }
+ /*标题*/
+.main-4 .img1-1{
+	width:24%;
+	height:auto;
+	position:absolute;
+	top:4.3%;
+	left:38%;
+	transition: all 0.5s ease 0.1s;
+     -webkit-transition:all 0.5s ease 0.1s ;
+     -o-transition:all 0.5s ease 0.1s ;
+     -moz-transition:all 0.5s ease 0.1s;
+     opacity:0 ;
+ }
+ .animatedFour .main-4 .img1-1{
+     opacity:1 ;
+ }
+ /*gif*/
+ .main-4 .img4-2{
+ 	width:100%;
+ 	height:100%;
+ }
+ /*字1*/
+ .main-4 .img4-3{
+	width:51%;
+	height:auto;
+	position:absolute;
+	top:25%;
+	left:-124.5%;
+	transition: all 0.5s ease 0.6s;
+     -webkit-transition:all 0.5s ease 0.6s ;
+     -o-transition:all 0.5s ease 0.6s ;
+     -moz-transition:all 0.5s ease 0.6s;
+     opacity:0 ;
+ }
+ .animatedFour .main-4 .img4-3{
+     opacity:1 ;left:24.5%;
+ }
+/*字2*/
+.main-4 .img4-4{
+	width:32%;
+	height:auto;
+	position:absolute;
+	top:31.8%;
+	right:-134%;
+	transition: all 0.5s ease 1.1s;
+     -webkit-transition:all 0.5s ease 1.1s ;
+     -o-transition:all 0.5s ease 1.1s ;
+     -moz-transition:all 0.5s ease 1.1s;
+     opacity:0 ;
+ }
+ .animatedFour .main-4 .img4-4{
+     opacity:1 ;right:34%;
+ }
+
+ /*第五页*/
+ .main-5{
+     /*background:url("../images/1.gif") no-repeat;*/
+     background: #070302;
+     /*background-size: 50% auto;*/
+     overflow: hidden;
+ }
+ .main-5 .img5-1{
+     width:100%;
+     height:auto;
+     position:absolute;
+     top: 10%;
+     left: 0%;
+ }
+ .main-5 .img5-2{
+     width:55%;
+     height:auto;
+     position:absolute;
+     top: 69%;
+     left:-120%;
+     transition: all 0.5s ease 0.6s;
+     -webkit-transition: all 0.5s ease 0.6s ;
+     -o-transition: all  0.5s ease 0.6s ;
+     -moz-transition:all 0.5s ease 0.6s;
+     opacity: 1;
+ }
+ .animatedFive .main-5 .img5-2{
+     opacity:1 ;left: 22.5%;
+ }
+ .main-5 .img5-3{
+     width:24%;
+     height:auto;
+     position:absolute;
+     top:-100%;
+     left:38%;
+     transition: all 0.5s ease 0s;
+     -webkit-transition: all 0.5s ease 0s ;
+     -o-transition: all  0.5s ease 0s ;
+     -moz-transition:all 0.5s ease 0s;
+     opacity: 1;
+ }
+ .animatedFive .main-5 .img5-3{
+     opacity:1 ;top:5%;
+ }
+ .main-5 .img5-4{
+     width:34%;
+     height:auto;
+     position:absolute;
+     top:77%;
+     right:-120%;
+     transition: all 0.5s ease 1.1s;
+     -webkit-transition: all 0.5s ease 1.1s ;
+     -o-transition: all  0.5s ease 1.1s ;
+     -moz-transition:all 0.5s ease 1.1s;
+     opacity: 1;
+ }
+ .animatedFive .main-5 .img5-4{
+     opacity:1 ;right: 33%;
+ }
+
+ /*第七页*/
+ /*.main-7{  
+     background: #070302;
+     overflow: hidden;
+ }
+ .main-7 .img6-1{
+     width:100%;
+     height:auto;
+     position:absolute;
+     top: 10%;
+     left: 0%;
+     transition: all 1s ease 0.1s;
+     -webkit-transition: all 1s ease 0.1s ;
+     -o-transition: all  1s ease 0.1s ;
+     -moz-transition:all 1s ease 0.1s;
+     opacity: 1;
+ }
+ .animatedSeven .main-7 .img6-1{
+     opacity:1 ;
+ }
+ .main-7 .img6-2{
+     width:36%;
+     height:auto;
+     position:absolute;
+     top: 68%;
+     left:-120%;
+     transition: all 0.5s ease 0.6s;
+     -webkit-transition: all 0.5s ease 0.6s ;
+     -o-transition: all  0.5s ease 0.6s ;
+     -moz-transition:all 0.5s ease 0.6s;
+     opacity: 1;
+ }
+ .animatedSeven .main-7 .img6-2{
+     opacity:1 ;left: 32%;
+ }
+ .main-7 .img6-3{
+     width:24%;
+     height:auto;
+     position:absolute;
+     top:-100%;
+     left:38%;
+     transition: all 0.5s ease 0.1s;
+     -webkit-transition: all 0.5s ease 0.1s ;
+     -o-transition: all  0.5s ease 0.1s ;
+     -moz-transition:all 0.5s ease 0.1s;
+     opacity: 1;
+ }
+ .animatedSeven .main-7 .img6-3{
+     opacity:1 ;top:5%;
+ }
+ .main-7 .img6-4{
+     width:34%;
+     height:auto;
+     position:absolute;
+     top:77%;
+     right:-120%;
+     transition: all 0.5s ease 1.1s;
+     -webkit-transition: all 0.5s ease 1.1s ;
+     -o-transition: all  0.5s ease 1.1s ;
+     -moz-transition:all 0.5s ease 1.1s;
+     opacity: 1;
+ }
+ .animatedSeven .main-7 .img6-4{
+     opacity:1 ;right: 33%;
+ }*/
+ /*第六页*/
+ .main-6{
+     /*background:url("../images/1.gif") no-repeat;*/
+     background: #070302;
+     /*background-size: 50% auto;*/
+     overflow: hidden;
+ }
+ .main-6 .img7-1{
+     width:100%;
+     height:100%;
+     position:absolute;
+     top: 0%;
+     left: 0%;
+     transition: all 1s ease 0.1s;
+     -webkit-transition: all 1s ease 0.1s ;
+     -o-transition: all  1s ease 0.1s ;
+     -moz-transition:all 1s ease 0.1s;
+     opacity: 1;
+ }
+ .animatedSix .main-6 .img7-1{
+     opacity:1 ;
+ }
+ .main-6 .img7-2{
+     width:46%;
+     height:auto;
+     position:absolute;
+     top: 71%;
+     left:-127%;
+     transition: all 0.5s ease 0.6s;
+     -webkit-transition: all 0.5s ease 0.6s ;
+     -o-transition: all  0.5s ease 0.6s ;
+     -moz-transition:all 0.5s ease 0.6s;
+     opacity: 1;
+ }
+ .animatedSix .main-6 .img7-2{
+     opacity:1 ;left: 27%;
+ }
+ .main-6 .img7-3{
+     width:24%;
+     height:auto;
+     position:absolute;
+     top:-180%;
+     left:40%;
+     transition: all 0.5s ease 0.1s;
+     -webkit-transition: all 0.5s ease 0.1s ;
+     -o-transition: all  0.5s ease 0.1s ;
+     -moz-transition:all 0.5s ease 0.1s;
+     opacity: 1;
+ }
+ .animatedSix .main-6 .img7-3{
+     opacity:1 ;top:5%;
+ }
+ .main-6 .img7-4{
+     width:34%;
+     height:auto;
+     position:absolute;
+     top:81%;
+     right:-120%;
+     transition: all 0.5s ease 1.1s;
+     -webkit-transition: all 0.5s ease 1.1s ;
+     -o-transition: all  0.5s ease 1.1s ;
+     -moz-transition:all 0.5s ease 1.1s;
+     opacity: 1;
+ }
+ .animatedSix .main-6 .img7-4{
+     opacity:1 ;right: 33%;
+ }
+ .main-6 .img7-5{
+     width:100%;
+     height:100%;
+     position:absolute;
+     top: 0px;
+     left: 0px;
+     transition: all 0.5s ease 1.1s;
+     -webkit-transition: all 0.5s ease 1.1s ;
+     -o-transition: all  0.5s ease 1.1s ;
+     -moz-transition:all 0.5s ease 1.1s;
+     opacity: 0;
+ }
+ .animatedSix .main-6 .img7-5{
+     opacity:1 ;
+ }
+
+
+ /*第八页*/
+ .main-7{
+     background:url("../images/8-1.gif") no-repeat;
+     background-size: 100% auto;
+     overflow: hidden;
+ }
+ .main-7 .img8-1{
+     width:24%;
+     height:auto;
+     position:absolute;
+     top: 65%;
+     left: -120%;
+     transition: all 0.5s ease 0.6s;
+     -webkit-transition: all 0.5s ease 0.6s ;
+     -o-transition: all  0.5s ease 0.6s ;
+     -moz-transition:all 0.5s ease 0.6s;
+     opacity: 0;
+ }
+ .animatedSeven .main-7 .img8-1{
+     opacity:1 ;left: 38%;
+ }
+ .main-7 .img8-2{
+     width:24%;
+     height:auto;
+     position:absolute;
+     top: -120%;
+     left:38%;
+     transition: all 0.5s ease 0.1s;
+     -webkit-transition: all 0.5s ease 0.1s ;
+     -o-transition: all  0.5s ease 0.1s ;
+     -moz-transition:all 0.5s ease 0.1s;
+     opacity: 1;
+ }
+ .animatedSeven .main-7 .img8-2{
+     top: 6.5%;opacity: 1;
+ }
+ .main-7 .img8-3{
+     width:55%;
+     height:auto;
+     position:absolute;
+     top:48%;
+     left:-120%;
+     transition: all 1s ease 0.1s;
+     -webkit-transition: all 1s ease 0.1s ;
+     -o-transition: all  1s ease 0.1s ;
+     -moz-transition:all 1s ease 0.1s;
+     opacity: 0;
+ }
+ .animatedSeven .main-7 .img8-3{
+     opacity:1 ;left:22.5%;
+ }
+ .main-7 .img8-4{
+     width:49%;
+     height:auto;
+     position:absolute;
+     top:75%;
+     right:-120%;
+     transition: all 0.5s ease 1.1s;
+     -webkit-transition: all 0.5s ease 1.1s ;
+     -o-transition: all  0.5s ease 1.1s ;
+     -moz-transition:all 0.5s ease 1.1s;
+     opacity: 1;
+ }
+ .animatedSeven .main-7 .img8-4{
+     right:25.5%;
+ }
+ .main-7 .img8-5{
+     width:22%;
+     height:auto;
+     position:absolute;
+     top: 90%;
+     left: 39%;
+     transition: all 0.5s ease 1.6s;
+     -webkit-transition: all 0.5s ease 1.6s ;
+     -o-transition: all  0.5s ease 1.6s ;
+     -moz-transition:all 0.5s ease 1.6s;
+     opacity: 0;
+ }
+ .animatedSeven .main-7 .img8-5{
+     opacity:1 ;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*视频*/
+.main-7{
+	width:100%;
+	height:auto;
+}
+
+.main-7  #video{
+	width:100%;
+	height:auto;
+    object-fit:fill;
+    user-select: none;
+    position:absolute;
+    top:16.3%;
+    left:0px;
+    display:none;
+}
+.main-7 .img6-5{
+     width:100%;
+     height:auto;
+     position:absolute;
+    top:16.3%;
+    left:0px;
+}
